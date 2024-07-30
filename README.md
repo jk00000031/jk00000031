@@ -9,6 +9,8 @@
 
 ![Vue](https://img.shields.io/badge/framework-Vue-green.svg)
 ![Nuxt](https://img.shields.io/badge/framework-Nuxt-green.svg)
+![FastAPI](https://img.shields.io/badge/framework-FastAPI-blue.svg)
+![ThinkPHP8](https://img.shields.io/badge/framework-ThinkPHP8-green.svg)
 
 <!--
 **jk00000031/jk00000031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
