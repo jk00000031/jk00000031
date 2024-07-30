@@ -1,4 +1,6 @@
-## Hi there 👋
+## 欢迎到访我的 Github 主页 👋
+
+这个人比较三分钟热度，如果你在仓库列表看到了喜欢的项目，但是一看没有完成，请提醒我继续编码！感谢🙏  
 
 <!--
 **jk00000031/jk00000031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
