@@ -2,6 +2,13 @@
 
 这个人比较三分钟热度，如果你在仓库列表看到了喜欢的项目，但是一看没有完成，请提醒我继续编码！感谢🙏  
 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-orange.svg)
+![Python3](https://img.shields.io/badge/language-Python3-blue.svg)
+
+<br />
+![Vue](https://img.shields.io/badge/framework-vue-green.svg)
+![Nuxt](https://img.shields.io/badge/framework-nuxt-green.svg)
+
 <!--
 **jk00000031/jk00000031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
