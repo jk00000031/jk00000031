@@ -2,6 +2,15 @@
 
 这个人比较三分钟热度，如果你在仓库列表看到了喜欢的项目，但是一看没有完成，请提醒我继续编码！感谢🙏  
 
+---
+
+关于网站地址及相关内容，目前还在持续改动...  
+后续完成，该段落会变更
+
+---
+<br />
+
+
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-orange.svg)
 ![Node](https://img.shields.io/badge/language-Node.js-green.svg)
 ![Python3](https://img.shields.io/badge/language-Python3-blue.svg)
